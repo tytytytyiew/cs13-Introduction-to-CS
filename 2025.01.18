@@ -1,0 +1,8 @@
+проходили на втором уроке
+name = input("what your name?")
+print("hello,", name, "!")
+agg = input("how old you")
+print(agg)
+place = input("where were you born")
+print(place)
+print("what's your  name ", name,"how old you",agg,"where are you from",place,)
