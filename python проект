@@ -1,0 +1,17 @@
+name = input("What is your name? ")
+print(f"Hello, {name}! Nice to meet you.")
+age = input("How old are you? ")
+print(f"Wow, {age} years old! That's great.")
+place = input("Where were you born? ")
+print(f"Ah, {place}! That's a wonderful place.")
+fav_number = int(input("What's your favorite number? "))
+print(f"Your favorite number is {fav_number}. Cool!")
+double_number = fav_number * 2
+triple_number = fav_number * 3
+half_number = fav_number / 2
+print(f"Double your favorite number: {double_number}")
+print(f"Triple your favorite number: {triple_number}")
+print(f"Half of your favorite number: {half_number:.2f}")
+color = input("What's your favorite color? ")
+print(f"{color} is a beautiful color!")
+print(f"Thank you, {name}! It was fun learning about you.")
